@@ -1,0 +1,6 @@
+A_001|The Outsider|Stephen King|2018|576|Scribner|Fiksi - novel|https://th.bing.com/th/id/OIP.Z0m7TMRaj5nmbRktCsp8PAHaLC?pid=ImgDet&rs=1|
+A_002|Bulan|Tere Liye|2015|440|Gramedia Pustaka Utama|Fiksi - novel1|https://cdn.gramedia.com/uploads/items/9786020332949_Bulan-New-Cover.jpg|
+A_010|Legenda Naga dari Seluruh Dunia|Faza|2018|140|Elex Media Komputindo|Fiksi - legenda|https://www.bukukita.com/babacms/displaybuku/107792_f.jpg|
+B_060|Ensiklopedia Sains|Belinda Gallagher|2022|372|Elex Media Komputindo|Non fiksi - ensiklopedia|ensiklopedia_sains.jpg|
+B_101|Chairil Sebuah Biografi|Hasan Aspahani|2016|340|GagasMedia|Non fiksi - biografi|chairil_sebuah_biografi.jpg|
+B_301|Hukum Tata Negara Indonesia: Pemikiran dan Pandangan|Prof. Dr. HRT. Sri Soemantri M. SH.|2016|404|Remaja Rosdakarya |Non fiksi - hukum|https://3.bp.blogspot.com/-_5GiXOB1vSw/WtXxaw-2v3I/AAAAAAAAE2w/-i3P9YG0J80PqNQljUA-na53rr7miEvSgCLcBGAs/s1600/hukum-tata-negara-indonesia-pemikiran-dan-pandangan.jpg|
