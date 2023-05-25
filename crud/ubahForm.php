@@ -183,8 +183,7 @@ return $data;
                                             <td>Cover (pilih file .jpg atau .jpeg atau .png)</td>
                                             <td> : </td>
                                             <td>
-                                                <input type="file" name="cover_file" accept="image/jpg, image/png, image/jpeg" id="tombol_up_cover" style="display:none">
-                                                <label for="tombol_up_cover" style="cursor:pointer; color:green; width:10px; border:1px solid;">Upload cover</label>
+                                                <input type="file" name="cover_file" accept="image/jpg, image/png, image/jpeg" id="tombol_up_cover" style="display">
                                             </td>
                                             <td></td>
                                         </tr>
@@ -202,8 +201,7 @@ return $data;
                                         <td>Cover (pilih file)</td>
                                         <td> : </td>
                                         <td>
-                                            <input type="file" name="cover_file" accept="image/jpg, image/png, image/jpeg" id="tombol_up_cover" style="display:none">
-                                            <label for="tombol_up_cover" style="cursor:pointer; color:green; width:10px; border:1px solid;">Upload cover</label>
+                                            <input type="file" name="cover_file" accept="image/jpg, image/png, image/jpeg" id="tombol_up_cover" style="display">
                                             <?php
                                                 echo "nama file sebelumnya : <a href='$cover_file' target='$cover_file'>$cover_file</a>";
                                             ?>
